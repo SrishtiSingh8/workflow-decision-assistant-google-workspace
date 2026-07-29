@@ -1,0 +1,501 @@
+Timestamp,Analyst Name,Scenario Type,Priority,Source,Error Present,Requires Escalation,Recommended Queue,Confidence Level,Review Flag
+7/18/2026 9:24:42,Aarav,Content Review,Medium,External,No,Yes,Escalation Queue,High,Immediate Review
+7/25/2026 12:57:09,Neha,Escalation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/19/2026 11:06:18,Srishti,Reporting,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/14/2026 12:11:53,Vikram,Documentation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+6/30/2026 7:53:41,Karan,Content Review,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/2/2026 21:00:30,Priya,Data Validation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/27/2026 23:07:21,Vikram,Reporting,Medium,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/22/2026 7:40:41,Aarav,Content Review,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/27/2026 8:07:40,Riya,Content Review,Low,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/14/2026 23:28:54,Arjun,Data Validation,Medium,External,No,No,Standard Queue,High,No Action
+7/19/2026 3:34:26,Aarav,Data Validation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/11/2026 12:16:25,Priya,Escalation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/13/2026 14:01:16,Aarav,Content Review,High,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/20/2026 0:39:01,Riya,Documentation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/26/2026 18:40:52,Karan,Escalation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/18/2026 16:48:28,Riya,Content Review,Low,External,No,No,Standard Queue,High,No Action
+6/30/2026 19:53:17,Srishti,Content Review,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/18/2026 20:42:02,Karan,Data Validation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/18/2026 15:38:31,Aarav,Escalation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/14/2026 5:43:21,Karan,Reporting,Low,External,No,No,Standard Queue,High,No Action
+7/14/2026 8:09:03,Aarav,Documentation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/19/2026 12:17:14,Priya,Content Review,Low,Internal,No,No,Standard Queue,High,No Action
+7/25/2026 13:54:39,Arjun,Content Review,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/26/2026 22:35:15,Aarav,Reporting,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/1/2026 14:34:52,Vikram,Escalation,High,External,No,No,Priority Queue,Medium,Monitor
+7/21/2026 0:21:26,Vikram,Escalation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/22/2026 2:31:15,Srishti,Documentation,High,External,No,No,Priority Queue,Medium,Monitor
+7/6/2026 15:19:39,Priya,Reporting,Low,Internal,No,No,Standard Queue,High,No Action
+7/5/2026 11:54:07,Karan,Data Validation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/7/2026 19:41:15,Neha,Content Review,High,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/19/2026 20:05:56,Srishti,Content Review,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/18/2026 20:23:16,Srishti,Escalation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/23/2026 13:37:31,Vikram,Escalation,High,External,No,No,Priority Queue,Medium,Monitor
+7/4/2026 8:30:04,Karan,Escalation,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/13/2026 22:02:32,Arjun,Content Review,Medium,External,No,Yes,Escalation Queue,High,Immediate Review
+7/24/2026 23:43:39,Arjun,Reporting,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/7/2026 0:32:28,Aarav,Data Validation,Medium,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/11/2026 17:57:24,Priya,Documentation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/19/2026 8:36:15,Vikram,Content Review,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/9/2026 16:42:27,Aarav,Data Validation,Low,External,No,No,Standard Queue,High,No Action
+7/5/2026 22:19:45,Neha,Reporting,Medium,External,No,No,Standard Queue,High,No Action
+7/5/2026 4:13:12,Srishti,Content Review,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/16/2026 18:26:41,Neha,Data Validation,Low,Internal,No,No,Standard Queue,High,No Action
+7/24/2026 2:36:28,Arjun,Documentation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/12/2026 6:18:02,Srishti,Content Review,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+6/30/2026 18:15:16,Karan,Content Review,Low,Internal,No,No,Standard Queue,High,No Action
+7/26/2026 8:29:45,Riya,Content Review,High,External,No,No,Priority Queue,Medium,Monitor
+7/20/2026 4:40:50,Priya,Content Review,Medium,External,No,No,Standard Queue,High,No Action
+7/28/2026 14:20:05,Neha,Escalation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/15/2026 14:23:09,Priya,Content Review,Low,Internal,No,No,Standard Queue,High,No Action
+7/4/2026 22:47:09,Riya,Data Validation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/16/2026 15:19:21,Aarav,Documentation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/28/2026 7:37:02,Priya,Escalation,Low,Internal,No,No,Standard Queue,High,No Action
+7/23/2026 2:07:05,Arjun,Data Validation,High,External,No,Yes,Escalation Queue,High,Immediate Review
+7/3/2026 8:09:52,Riya,Escalation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/1/2026 4:06:40,Arjun,Content Review,Low,Internal,No,No,Standard Queue,High,No Action
+7/12/2026 14:49:40,Aarav,Escalation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/28/2026 10:36:05,Priya,Data Validation,Medium,External,No,No,Standard Queue,High,No Action
+6/30/2026 3:40:23,Neha,Content Review,Medium,External,No,No,Standard Queue,High,No Action
+7/27/2026 18:08:15,Karan,Content Review,Low,Internal,No,No,Standard Queue,High,No Action
+6/30/2026 16:59:14,Srishti,Escalation,Low,Internal,No,No,Standard Queue,High,No Action
+7/6/2026 1:34:32,Vikram,Content Review,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/4/2026 4:35:26,Priya,Content Review,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/9/2026 13:13:15,Vikram,Data Validation,Low,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/12/2026 5:12:15,Karan,Escalation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/1/2026 6:31:45,Aarav,Data Validation,Low,Internal,No,No,Standard Queue,High,No Action
+7/9/2026 5:59:40,Arjun,Escalation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+6/30/2026 5:16:50,Riya,Data Validation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/15/2026 0:07:05,Priya,Reporting,Medium,External,No,No,Standard Queue,High,No Action
+7/13/2026 17:14:29,Priya,Documentation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/4/2026 3:57:43,Aarav,Reporting,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/16/2026 19:17:56,Neha,Content Review,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/17/2026 7:52:54,Aarav,Content Review,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/18/2026 21:47:48,Srishti,Documentation,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/26/2026 3:20:34,Priya,Reporting,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/17/2026 2:59:14,Riya,Documentation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/20/2026 15:04:05,Arjun,Escalation,Medium,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/7/2026 2:34:35,Arjun,Reporting,Medium,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/7/2026 5:19:27,Riya,Content Review,Medium,External,No,No,Standard Queue,High,No Action
+7/13/2026 11:26:25,Arjun,Escalation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/8/2026 1:56:25,Arjun,Reporting,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/26/2026 2:39:42,Neha,Content Review,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/12/2026 5:48:50,Aarav,Data Validation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/2/2026 5:43:42,Neha,Content Review,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/24/2026 12:03:45,Vikram,Reporting,Low,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/5/2026 10:30:11,Riya,Escalation,High,External,No,No,Priority Queue,Medium,Monitor
+7/11/2026 10:57:07,Riya,Content Review,Low,Internal,No,No,Standard Queue,High,No Action
+7/15/2026 22:33:37,Arjun,Data Validation,Low,External,No,No,Standard Queue,High,No Action
+7/5/2026 4:17:00,Srishti,Escalation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/24/2026 17:37:27,Karan,Documentation,Low,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/2/2026 16:52:28,Karan,Data Validation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+6/30/2026 7:48:30,Srishti,Escalation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/14/2026 18:40:08,Aarav,Content Review,Low,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/8/2026 10:33:52,Srishti,Content Review,Medium,External,No,No,Standard Queue,High,No Action
+7/5/2026 23:07:55,Riya,Escalation,Medium,External,No,No,Standard Queue,High,No Action
+7/23/2026 23:52:23,Priya,Data Validation,High,External,No,Yes,Escalation Queue,High,Immediate Review
+7/2/2026 15:00:09,Vikram,Escalation,Low,External,No,No,Standard Queue,High,No Action
+7/2/2026 2:10:32,Aarav,Escalation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/27/2026 20:58:47,Arjun,Content Review,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/2/2026 7:31:17,Aarav,Documentation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/7/2026 7:01:35,Neha,Reporting,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/23/2026 0:48:36,Riya,Reporting,Medium,External,No,No,Standard Queue,High,No Action
+7/14/2026 23:02:21,Priya,Reporting,Medium,External,No,No,Standard Queue,High,No Action
+6/30/2026 11:01:18,Aarav,Data Validation,Medium,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/21/2026 17:38:19,Srishti,Reporting,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/19/2026 18:52:15,Vikram,Reporting,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/12/2026 3:38:01,Arjun,Escalation,High,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/12/2026 17:03:07,Priya,Content Review,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+6/29/2026 23:48:29,Karan,Documentation,Low,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/19/2026 18:35:59,Priya,Data Validation,Low,External,No,No,Standard Queue,High,No Action
+7/17/2026 11:24:03,Vikram,Content Review,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/26/2026 9:02:49,Aarav,Escalation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/7/2026 21:01:16,Srishti,Content Review,Low,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/14/2026 18:54:44,Vikram,Content Review,Medium,Internal,No,No,Standard Queue,High,No Action
+7/14/2026 17:34:29,Riya,Documentation,Medium,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/29/2026 3:18:30,Karan,Escalation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/2/2026 23:36:39,Karan,Escalation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/27/2026 2:30:45,Vikram,Escalation,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/13/2026 10:37:47,Riya,Reporting,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/27/2026 23:22:57,Neha,Data Validation,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/3/2026 21:22:44,Vikram,Content Review,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/26/2026 23:25:43,Vikram,Content Review,Low,Internal,No,No,Standard Queue,High,No Action
+7/29/2026 8:46:49,Srishti,Data Validation,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/16/2026 8:52:37,Riya,Data Validation,Medium,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/4/2026 10:27:24,Priya,Escalation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/23/2026 21:32:53,Neha,Documentation,Low,External,No,No,Standard Queue,High,No Action
+7/19/2026 12:07:02,Neha,Reporting,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/24/2026 0:03:49,Vikram,Reporting,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/6/2026 15:24:16,Riya,Data Validation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+6/29/2026 22:38:36,Priya,Data Validation,Low,External,No,No,Standard Queue,High,No Action
+7/22/2026 15:58:13,Aarav,Content Review,High,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/9/2026 18:16:58,Vikram,Documentation,High,External,No,No,Priority Queue,Medium,Monitor
+7/25/2026 0:05:38,Srishti,Reporting,Low,Internal,No,No,Standard Queue,High,No Action
+7/3/2026 7:48:16,Arjun,Reporting,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/10/2026 8:22:21,Vikram,Escalation,Medium,External,No,No,Standard Queue,High,No Action
+7/4/2026 14:20:18,Vikram,Documentation,Low,Internal,No,No,Standard Queue,High,No Action
+7/15/2026 14:57:47,Karan,Reporting,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/4/2026 7:06:51,Riya,Escalation,High,External,No,Yes,Escalation Queue,High,Immediate Review
+7/13/2026 1:18:18,Priya,Reporting,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/25/2026 10:44:46,Karan,Data Validation,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/15/2026 23:47:08,Neha,Data Validation,Low,Internal,No,No,Standard Queue,High,No Action
+7/3/2026 12:49:39,Arjun,Data Validation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/23/2026 21:41:53,Vikram,Data Validation,Medium,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/15/2026 6:51:56,Karan,Data Validation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/25/2026 2:08:01,Arjun,Data Validation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/15/2026 5:14:03,Priya,Data Validation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/14/2026 21:57:27,Neha,Escalation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/17/2026 4:37:18,Priya,Reporting,Low,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/8/2026 22:16:24,Priya,Escalation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/13/2026 3:48:36,Karan,Content Review,High,External,No,No,Priority Queue,Medium,Monitor
+7/11/2026 5:05:03,Srishti,Reporting,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/22/2026 6:41:31,Priya,Escalation,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/3/2026 15:15:56,Arjun,Data Validation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/18/2026 13:10:47,Vikram,Data Validation,Medium,External,No,No,Standard Queue,High,No Action
+7/25/2026 0:15:14,Aarav,Data Validation,Low,External,No,No,Standard Queue,High,No Action
+7/22/2026 6:42:28,Srishti,Content Review,Medium,External,No,No,Standard Queue,High,No Action
+7/16/2026 18:36:06,Priya,Content Review,Medium,Internal,No,No,Standard Queue,High,No Action
+7/12/2026 3:50:15,Riya,Content Review,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/24/2026 7:00:52,Arjun,Documentation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/27/2026 16:11:26,Riya,Content Review,Low,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/17/2026 16:44:41,Karan,Reporting,Low,External,No,No,Standard Queue,High,No Action
+7/12/2026 3:29:49,Priya,Documentation,Medium,External,No,No,Standard Queue,High,No Action
+7/10/2026 18:03:53,Neha,Content Review,Low,External,No,No,Standard Queue,High,No Action
+7/1/2026 7:36:46,Karan,Data Validation,Medium,External,No,No,Standard Queue,High,No Action
+7/19/2026 10:29:42,Priya,Reporting,Low,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/11/2026 0:21:33,Karan,Escalation,Low,External,No,No,Standard Queue,High,No Action
+7/7/2026 19:51:58,Aarav,Documentation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/25/2026 17:09:06,Arjun,Data Validation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/17/2026 21:09:03,Priya,Reporting,Low,External,No,No,Standard Queue,High,No Action
+7/1/2026 18:30:32,Aarav,Content Review,Medium,Internal,No,No,Standard Queue,High,No Action
+7/2/2026 9:08:20,Vikram,Documentation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/9/2026 8:22:01,Karan,Content Review,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/28/2026 18:58:09,Neha,Content Review,High,External,No,No,Priority Queue,Medium,Monitor
+7/3/2026 18:04:44,Priya,Content Review,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/12/2026 23:35:51,Riya,Reporting,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/13/2026 17:12:48,Arjun,Data Validation,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+6/29/2026 14:29:49,Srishti,Reporting,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/23/2026 6:43:59,Aarav,Escalation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/23/2026 15:03:47,Neha,Data Validation,High,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/8/2026 3:28:02,Aarav,Reporting,Low,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/10/2026 21:52:10,Aarav,Documentation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/12/2026 20:26:58,Arjun,Documentation,Medium,External,No,No,Standard Queue,High,No Action
+7/24/2026 4:24:16,Priya,Documentation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/23/2026 19:49:00,Priya,Documentation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/11/2026 23:14:15,Arjun,Data Validation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/5/2026 8:30:03,Riya,Reporting,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/7/2026 22:32:19,Neha,Content Review,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/2/2026 1:32:31,Aarav,Reporting,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/5/2026 17:01:13,Priya,Documentation,Low,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/6/2026 11:57:32,Priya,Escalation,Medium,External,No,Yes,Escalation Queue,High,Immediate Review
+7/22/2026 4:02:12,Aarav,Data Validation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/14/2026 4:52:35,Priya,Documentation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/21/2026 7:43:54,Arjun,Escalation,Low,Internal,No,No,Standard Queue,High,No Action
+7/29/2026 12:57:31,Karan,Escalation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/19/2026 19:39:35,Priya,Content Review,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/2/2026 8:49:20,Riya,Documentation,Low,External,No,No,Standard Queue,High,No Action
+7/26/2026 15:40:30,Aarav,Escalation,High,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/1/2026 5:23:48,Karan,Reporting,Medium,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/29/2026 3:27:42,Riya,Documentation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/20/2026 19:21:05,Karan,Documentation,High,External,No,No,Priority Queue,Medium,Monitor
+7/18/2026 10:51:00,Arjun,Escalation,Low,External,No,Yes,Escalation Queue,High,Immediate Review
+7/6/2026 20:38:37,Neha,Content Review,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/13/2026 8:53:00,Aarav,Content Review,Medium,External,No,No,Standard Queue,High,No Action
+7/7/2026 8:36:38,Riya,Documentation,High,External,No,No,Priority Queue,Medium,Monitor
+7/5/2026 18:57:10,Neha,Reporting,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/25/2026 10:17:09,Neha,Documentation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/24/2026 8:33:42,Priya,Reporting,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/3/2026 8:54:21,Priya,Documentation,Medium,Internal,No,No,Standard Queue,High,No Action
+6/30/2026 20:24:52,Vikram,Content Review,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/2/2026 17:49:18,Priya,Data Validation,Low,External,No,No,Standard Queue,High,No Action
+7/2/2026 14:22:36,Aarav,Reporting,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/28/2026 5:55:45,Srishti,Reporting,Medium,External,No,No,Standard Queue,High,No Action
+7/11/2026 17:57:00,Priya,Documentation,Low,External,No,No,Standard Queue,High,No Action
+7/1/2026 18:40:18,Srishti,Content Review,Medium,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+6/30/2026 21:33:11,Priya,Reporting,High,External,No,No,Priority Queue,Medium,Monitor
+7/11/2026 17:50:43,Karan,Data Validation,Medium,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/24/2026 0:09:15,Arjun,Reporting,Low,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/4/2026 12:46:17,Vikram,Escalation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/10/2026 13:25:48,Arjun,Reporting,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/3/2026 2:32:32,Vikram,Content Review,Medium,External,No,Yes,Escalation Queue,High,Immediate Review
+6/30/2026 22:12:53,Aarav,Reporting,Low,Internal,No,No,Standard Queue,High,No Action
+7/19/2026 0:26:59,Riya,Documentation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/7/2026 1:48:51,Srishti,Reporting,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/1/2026 4:31:00,Priya,Escalation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/28/2026 3:52:08,Arjun,Content Review,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/18/2026 8:12:18,Karan,Documentation,High,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/26/2026 21:37:17,Riya,Content Review,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/3/2026 19:31:52,Karan,Documentation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/4/2026 13:16:13,Aarav,Data Validation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/16/2026 4:25:32,Priya,Data Validation,Medium,External,No,No,Standard Queue,High,No Action
+7/8/2026 3:48:41,Priya,Escalation,Low,External,No,Yes,Escalation Queue,High,Immediate Review
+7/27/2026 19:21:41,Aarav,Content Review,High,External,No,No,Priority Queue,Medium,Monitor
+7/9/2026 11:29:07,Aarav,Escalation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/24/2026 12:00:44,Aarav,Reporting,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/15/2026 21:25:26,Riya,Data Validation,Low,Internal,No,No,Standard Queue,High,No Action
+7/23/2026 8:37:08,Karan,Reporting,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/26/2026 19:52:38,Vikram,Reporting,High,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/24/2026 17:17:26,Riya,Data Validation,Medium,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/26/2026 19:48:24,Aarav,Documentation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/17/2026 16:48:16,Srishti,Reporting,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/17/2026 1:41:42,Karan,Escalation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/3/2026 8:30:56,Riya,Escalation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/9/2026 11:56:21,Riya,Data Validation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/3/2026 9:25:30,Karan,Documentation,Low,Internal,No,No,Standard Queue,High,No Action
+7/1/2026 19:43:03,Neha,Content Review,Low,External,No,No,Standard Queue,High,No Action
+7/6/2026 12:42:07,Vikram,Escalation,Medium,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/23/2026 3:02:22,Riya,Escalation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/6/2026 0:10:22,Priya,Escalation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/19/2026 19:51:37,Karan,Escalation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/25/2026 16:25:21,Aarav,Reporting,Medium,Internal,No,No,Standard Queue,High,No Action
+7/12/2026 13:26:50,Vikram,Documentation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/4/2026 9:50:30,Arjun,Data Validation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/29/2026 8:11:40,Riya,Reporting,Medium,External,No,Yes,Escalation Queue,High,Immediate Review
+7/28/2026 10:39:19,Srishti,Reporting,High,External,No,No,Priority Queue,Medium,Monitor
+7/17/2026 7:04:01,Srishti,Reporting,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/24/2026 10:49:31,Arjun,Documentation,Medium,External,No,No,Standard Queue,High,No Action
+7/9/2026 11:52:36,Vikram,Escalation,High,External,No,No,Priority Queue,Medium,Monitor
+7/4/2026 11:39:52,Karan,Reporting,Medium,External,No,No,Standard Queue,High,No Action
+7/9/2026 16:27:29,Priya,Content Review,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/23/2026 10:42:55,Neha,Escalation,High,External,No,Yes,Escalation Queue,High,Immediate Review
+7/22/2026 11:01:50,Aarav,Content Review,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/6/2026 3:20:12,Neha,Reporting,High,External,No,No,Priority Queue,Medium,Monitor
+7/21/2026 4:56:58,Neha,Escalation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/8/2026 12:41:08,Vikram,Escalation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/8/2026 22:40:42,Riya,Documentation,High,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/17/2026 9:18:31,Neha,Reporting,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/25/2026 20:57:22,Neha,Data Validation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/6/2026 16:01:37,Riya,Data Validation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/21/2026 21:21:07,Vikram,Documentation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/12/2026 23:38:29,Riya,Documentation,Low,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/26/2026 19:58:24,Neha,Escalation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/27/2026 23:21:46,Neha,Escalation,Low,Internal,No,No,Standard Queue,High,No Action
+7/7/2026 2:04:33,Vikram,Escalation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/1/2026 10:43:50,Srishti,Data Validation,Medium,External,No,No,Standard Queue,High,No Action
+7/5/2026 11:31:08,Riya,Escalation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/26/2026 17:45:05,Srishti,Content Review,Low,External,No,No,Standard Queue,High,No Action
+7/24/2026 21:56:57,Arjun,Documentation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/11/2026 20:32:46,Priya,Documentation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/22/2026 11:35:27,Priya,Data Validation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/26/2026 15:02:58,Srishti,Escalation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/14/2026 8:36:35,Karan,Escalation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/14/2026 14:14:07,Neha,Escalation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/16/2026 14:00:18,Karan,Data Validation,Low,External,No,No,Standard Queue,High,No Action
+7/17/2026 8:35:20,Riya,Data Validation,Low,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/29/2026 1:24:00,Srishti,Documentation,Low,External,No,No,Standard Queue,High,No Action
+7/20/2026 9:31:37,Arjun,Content Review,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+6/30/2026 4:16:29,Srishti,Reporting,Low,External,No,No,Standard Queue,High,No Action
+7/20/2026 8:22:57,Srishti,Documentation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/5/2026 6:06:51,Riya,Documentation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+6/30/2026 11:18:51,Priya,Escalation,Low,External,No,No,Standard Queue,High,No Action
+7/20/2026 7:29:31,Srishti,Escalation,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/9/2026 19:45:15,Arjun,Content Review,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/23/2026 4:44:28,Arjun,Escalation,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/2/2026 18:12:03,Priya,Data Validation,Low,Internal,No,No,Standard Queue,High,No Action
+6/29/2026 22:57:51,Karan,Content Review,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/14/2026 2:27:23,Vikram,Reporting,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/16/2026 19:40:14,Aarav,Escalation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/25/2026 22:43:27,Neha,Content Review,Low,Internal,No,No,Standard Queue,High,No Action
+7/27/2026 5:09:26,Srishti,Documentation,Low,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/9/2026 1:00:34,Riya,Escalation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/11/2026 7:22:40,Priya,Escalation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/3/2026 7:23:26,Riya,Documentation,Medium,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/19/2026 10:47:57,Aarav,Data Validation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/1/2026 20:10:27,Karan,Data Validation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/4/2026 13:38:37,Priya,Content Review,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/3/2026 0:34:43,Karan,Documentation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/15/2026 5:47:03,Arjun,Reporting,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/18/2026 20:07:52,Priya,Reporting,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/26/2026 12:55:08,Arjun,Escalation,Low,External,No,Yes,Escalation Queue,High,Immediate Review
+7/10/2026 7:47:19,Priya,Documentation,Low,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/29/2026 12:49:27,Riya,Data Validation,High,External,No,Yes,Escalation Queue,High,Immediate Review
+7/15/2026 8:07:34,Arjun,Reporting,High,External,No,No,Priority Queue,Medium,Monitor
+7/9/2026 18:29:13,Riya,Content Review,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/29/2026 10:38:12,Priya,Escalation,Low,Internal,No,No,Standard Queue,High,No Action
+7/26/2026 9:35:09,Aarav,Documentation,Low,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/28/2026 22:59:47,Neha,Documentation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/25/2026 19:37:22,Riya,Reporting,Low,External,No,No,Standard Queue,High,No Action
+7/20/2026 4:25:02,Priya,Escalation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/29/2026 9:21:02,Neha,Documentation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+6/30/2026 14:10:51,Srishti,Data Validation,Low,External,No,No,Standard Queue,High,No Action
+7/14/2026 13:00:07,Riya,Data Validation,High,External,No,No,Priority Queue,Medium,Monitor
+7/14/2026 16:58:36,Priya,Reporting,High,External,No,No,Priority Queue,Medium,Monitor
+7/11/2026 16:01:49,Vikram,Data Validation,Medium,External,No,No,Standard Queue,High,No Action
+7/8/2026 15:28:36,Priya,Data Validation,Medium,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/27/2026 16:08:40,Riya,Content Review,High,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/15/2026 1:03:52,Srishti,Content Review,Low,Internal,No,No,Standard Queue,High,No Action
+7/6/2026 18:40:08,Riya,Reporting,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/12/2026 21:58:47,Riya,Escalation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/23/2026 16:44:40,Karan,Data Validation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/10/2026 19:14:45,Srishti,Data Validation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/6/2026 5:21:29,Arjun,Reporting,Medium,External,No,No,Standard Queue,High,No Action
+7/4/2026 4:19:40,Karan,Documentation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/8/2026 11:16:06,Karan,Data Validation,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/9/2026 12:53:28,Vikram,Reporting,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/21/2026 20:47:28,Riya,Content Review,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/14/2026 9:31:03,Neha,Reporting,Low,External,No,No,Standard Queue,High,No Action
+7/4/2026 19:15:27,Vikram,Escalation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/19/2026 8:40:01,Vikram,Data Validation,Low,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/9/2026 13:28:29,Arjun,Escalation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/10/2026 6:15:40,Priya,Data Validation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/24/2026 18:19:06,Srishti,Escalation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/14/2026 11:23:16,Priya,Content Review,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/25/2026 9:55:04,Arjun,Documentation,Low,External,No,Yes,Escalation Queue,High,Immediate Review
+7/19/2026 19:00:04,Karan,Content Review,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+6/30/2026 8:49:39,Karan,Content Review,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/19/2026 12:59:48,Arjun,Escalation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/17/2026 13:54:42,Aarav,Escalation,Medium,External,No,No,Standard Queue,High,No Action
+7/27/2026 14:23:09,Srishti,Content Review,Medium,External,No,Yes,Escalation Queue,High,Immediate Review
+7/1/2026 22:55:42,Riya,Content Review,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/28/2026 1:52:40,Vikram,Data Validation,Medium,External,No,No,Standard Queue,High,No Action
+7/4/2026 15:18:46,Srishti,Content Review,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/9/2026 13:10:24,Arjun,Reporting,Medium,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/28/2026 15:26:32,Riya,Escalation,Low,External,No,No,Standard Queue,High,No Action
+7/23/2026 8:37:00,Neha,Documentation,High,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/16/2026 4:32:17,Neha,Data Validation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/21/2026 15:12:29,Srishti,Documentation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/1/2026 22:51:42,Aarav,Content Review,Medium,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/7/2026 17:44:51,Srishti,Data Validation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/22/2026 14:16:31,Neha,Content Review,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/11/2026 1:17:03,Srishti,Documentation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/11/2026 22:38:41,Priya,Reporting,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/17/2026 17:57:05,Vikram,Data Validation,Medium,External,No,No,Standard Queue,High,No Action
+7/8/2026 12:42:52,Aarav,Escalation,Low,External,Yes,Yes,Escalation Queue,High,Immediate Review
+6/29/2026 17:22:35,Neha,Content Review,Medium,Internal,No,No,Standard Queue,High,No Action
+7/5/2026 0:34:15,Srishti,Documentation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/7/2026 19:35:34,Riya,Content Review,Medium,External,No,No,Standard Queue,High,No Action
+7/9/2026 8:53:46,Karan,Escalation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/21/2026 17:54:20,Priya,Reporting,Low,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/23/2026 22:58:09,Arjun,Reporting,Medium,External,No,Yes,Escalation Queue,High,Immediate Review
+7/5/2026 2:23:33,Vikram,Data Validation,Medium,External,No,Yes,Escalation Queue,High,Immediate Review
+7/20/2026 8:34:25,Vikram,Reporting,High,External,No,No,Priority Queue,Medium,Monitor
+7/26/2026 17:21:28,Srishti,Escalation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/3/2026 13:10:45,Arjun,Reporting,High,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/1/2026 11:28:26,Srishti,Reporting,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/25/2026 22:17:03,Vikram,Content Review,Medium,Internal,No,No,Standard Queue,High,No Action
+7/10/2026 5:46:08,Priya,Escalation,Medium,Internal,No,No,Standard Queue,High,No Action
+6/29/2026 23:38:31,Priya,Reporting,Medium,Internal,No,No,Standard Queue,High,No Action
+7/16/2026 12:55:31,Riya,Content Review,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/20/2026 16:06:56,Neha,Content Review,Low,Internal,No,No,Standard Queue,High,No Action
+7/21/2026 7:14:12,Karan,Content Review,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/27/2026 20:34:38,Riya,Data Validation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/7/2026 2:27:24,Karan,Content Review,Medium,External,No,No,Standard Queue,High,No Action
+7/3/2026 21:57:19,Vikram,Documentation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/14/2026 1:49:06,Srishti,Data Validation,Low,External,No,No,Standard Queue,High,No Action
+7/26/2026 13:14:31,Aarav,Data Validation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/24/2026 16:38:17,Srishti,Escalation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/17/2026 3:48:33,Neha,Reporting,Medium,External,No,No,Standard Queue,High,No Action
+7/7/2026 21:49:07,Vikram,Reporting,Medium,External,No,No,Standard Queue,High,No Action
+7/16/2026 20:18:56,Priya,Data Validation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/22/2026 5:38:21,Karan,Escalation,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/27/2026 6:03:52,Priya,Data Validation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/15/2026 5:39:55,Karan,Escalation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/9/2026 8:00:09,Karan,Escalation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/5/2026 5:18:26,Neha,Reporting,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/8/2026 12:22:48,Srishti,Documentation,Low,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/21/2026 18:13:51,Srishti,Content Review,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/8/2026 13:59:23,Neha,Data Validation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/10/2026 14:50:24,Aarav,Data Validation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/23/2026 20:10:24,Neha,Data Validation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/17/2026 1:37:49,Priya,Reporting,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+6/30/2026 20:26:47,Arjun,Content Review,High,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/28/2026 20:14:24,Priya,Documentation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/8/2026 5:28:43,Aarav,Escalation,Low,External,No,No,Standard Queue,High,No Action
+7/26/2026 17:12:19,Karan,Documentation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/8/2026 13:47:43,Vikram,Reporting,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+6/30/2026 7:08:42,Riya,Data Validation,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/8/2026 4:14:28,Vikram,Documentation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/18/2026 17:33:50,Neha,Escalation,Low,External,No,No,Standard Queue,High,No Action
+7/1/2026 21:02:11,Vikram,Content Review,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/18/2026 3:34:10,Vikram,Content Review,High,External,No,No,Priority Queue,Medium,Monitor
+7/16/2026 20:54:51,Aarav,Content Review,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/18/2026 11:13:54,Arjun,Escalation,Low,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/25/2026 21:56:51,Aarav,Content Review,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/13/2026 7:29:38,Arjun,Content Review,Medium,External,No,No,Standard Queue,High,No Action
+7/28/2026 5:31:17,Aarav,Data Validation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/25/2026 19:37:43,Arjun,Escalation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/22/2026 23:32:05,Riya,Data Validation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/25/2026 22:10:50,Neha,Data Validation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/22/2026 12:08:21,Priya,Documentation,Low,Internal,No,No,Standard Queue,High,No Action
+7/27/2026 20:46:02,Priya,Escalation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/9/2026 23:39:06,Arjun,Documentation,High,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/19/2026 23:29:48,Karan,Content Review,High,External,No,Yes,Escalation Queue,High,Immediate Review
+7/12/2026 9:03:31,Karan,Data Validation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/18/2026 6:14:04,Vikram,Content Review,Medium,Internal,No,No,Standard Queue,High,No Action
+7/15/2026 4:45:17,Priya,Data Validation,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/24/2026 6:27:52,Priya,Documentation,High,External,No,No,Priority Queue,Medium,Monitor
+7/11/2026 5:40:37,Karan,Escalation,Medium,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/1/2026 19:41:35,Srishti,Reporting,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/12/2026 22:18:28,Riya,Data Validation,Medium,External,No,No,Standard Queue,High,No Action
+7/13/2026 6:40:06,Riya,Escalation,Low,External,No,No,Standard Queue,High,No Action
+7/4/2026 17:28:03,Karan,Reporting,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/29/2026 4:18:41,Riya,Content Review,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/21/2026 5:23:38,Vikram,Escalation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/16/2026 6:04:43,Karan,Escalation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/22/2026 12:10:33,Priya,Content Review,High,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/11/2026 15:12:04,Karan,Reporting,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/25/2026 13:38:37,Riya,Escalation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/21/2026 8:15:57,Vikram,Documentation,High,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/9/2026 15:41:00,Vikram,Escalation,Medium,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+6/30/2026 19:06:39,Karan,Content Review,Medium,Internal,No,No,Standard Queue,High,No Action
+7/21/2026 2:38:04,Srishti,Documentation,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/14/2026 8:54:34,Karan,Content Review,Medium,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/6/2026 4:46:43,Neha,Data Validation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/1/2026 3:18:16,Arjun,Reporting,Medium,Internal,No,Yes,Escalation Queue,High,Immediate Review
+7/6/2026 23:27:25,Neha,Content Review,High,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/18/2026 13:55:09,Arjun,Reporting,High,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/8/2026 20:22:25,Arjun,Data Validation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/6/2026 0:43:02,Aarav,Escalation,High,External,No,No,Priority Queue,Medium,Monitor
+7/18/2026 21:12:08,Neha,Reporting,High,Internal,No,No,Priority Queue,Medium,Monitor
+7/22/2026 13:25:02,Arjun,Escalation,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/11/2026 2:29:46,Aarav,Content Review,Medium,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/19/2026 13:09:08,Aarav,Escalation,High,External,No,No,Priority Queue,Medium,Monitor
+7/20/2026 9:39:34,Riya,Content Review,Low,Internal,No,No,Standard Queue,High,No Action
+7/18/2026 9:14:26,Riya,Data Validation,Low,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/16/2026 17:41:36,Vikram,Documentation,Medium,External,No,Yes,Escalation Queue,High,Immediate Review
+7/6/2026 22:27:54,Karan,Documentation,Low,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/9/2026 1:34:03,Priya,Documentation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/1/2026 0:33:26,Aarav,Escalation,High,External,No,No,Priority Queue,Medium,Monitor
+7/26/2026 20:16:07,Priya,Reporting,High,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/16/2026 9:20:23,Aarav,Documentation,High,External,No,Yes,Escalation Queue,High,Immediate Review
+7/20/2026 17:18:28,Vikram,Documentation,Medium,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/23/2026 0:36:04,Karan,Escalation,High,External,No,No,Priority Queue,Medium,Monitor
+7/2/2026 13:04:41,Aarav,Reporting,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/23/2026 14:26:30,Aarav,Reporting,High,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/24/2026 11:58:32,Aarav,Reporting,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/25/2026 15:27:33,Priya,Data Validation,Medium,External,No,Yes,Escalation Queue,High,Immediate Review
+7/23/2026 19:24:32,Arjun,Data Validation,Low,Internal,No,No,Standard Queue,High,No Action
+7/8/2026 9:24:14,Srishti,Documentation,Low,Internal,Yes,No,Quality Check Queue,Medium,Review Required
+7/1/2026 3:18:28,Karan,Documentation,High,External,No,No,Priority Queue,Medium,Monitor
+7/8/2026 15:15:44,Neha,Content Review,Low,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/9/2026 20:45:19,Arjun,Escalation,Medium,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/19/2026 15:16:06,Arjun,Data Validation,Low,External,Yes,Yes,Escalation Queue,High,Immediate Review
+7/9/2026 10:59:59,Karan,Reporting,High,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/6/2026 5:03:23,Karan,Documentation,Medium,Internal,No,No,Standard Queue,High,No Action
+7/8/2026 4:06:28,Vikram,Data Validation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/10/2026 17:41:10,Srishti,Documentation,Low,Internal,No,No,Standard Queue,High,No Action
+7/29/2026 7:29:02,Srishti,Escalation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/25/2026 21:02:55,Aarav,Documentation,Low,Internal,No,No,Standard Queue,High,No Action
+7/17/2026 0:40:02,Arjun,Escalation,High,External,No,Yes,Escalation Queue,High,Immediate Review
+7/2/2026 21:20:36,Arjun,Escalation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/4/2026 11:17:47,Aarav,Content Review,High,Internal,No,No,Priority Queue,Medium,Monitor
+6/30/2026 5:51:01,Aarav,Escalation,High,External,No,No,Priority Queue,Medium,Monitor
+7/21/2026 13:41:36,Priya,Escalation,Low,External,No,No,Standard Queue,High,No Action
+7/17/2026 12:45:15,Vikram,Escalation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/25/2026 14:41:46,Priya,Data Validation,Medium,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/9/2026 5:45:05,Priya,Escalation,Medium,Internal,Yes,Yes,Escalation Queue,High,Immediate Review
+7/4/2026 2:29:22,Srishti,Data Validation,Medium,External,No,Yes,Escalation Queue,High,Immediate Review
+7/22/2026 12:44:20,Karan,Content Review,High,External,No,No,Priority Queue,Medium,Monitor
+7/11/2026 19:15:24,Vikram,Documentation,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/21/2026 15:59:52,Srishti,Content Review,Low,Internal,No,No,Standard Queue,High,No Action
+7/7/2026 12:19:53,Karan,Escalation,Medium,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/8/2026 21:34:05,Priya,Data Validation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/28/2026 16:41:39,Vikram,Content Review,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/20/2026 12:26:46,Riya,Reporting,High,External,No,No,Priority Queue,Medium,Monitor
+7/24/2026 20:26:01,Aarav,Escalation,High,External,Yes,No,Priority Validation Queue,High,Review Required
+7/6/2026 2:56:04,Arjun,Content Review,Low,Internal,No,No,Standard Queue,High,No Action
+7/13/2026 1:14:11,Riya,Escalation,Low,Internal,No,No,Standard Queue,High,No Action
+7/6/2026 1:54:36,Priya,Documentation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
+7/29/2026 1:51:12,Arjun,Content Review,High,Internal,Yes,No,Priority Validation Queue,High,Review Required
+7/14/2026 13:34:47,Karan,Documentation,Low,External,Yes,No,Quality Check Queue,Medium,Review Required
